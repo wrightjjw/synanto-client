@@ -1,0 +1,7 @@
+{
+  "name": "synanto-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
